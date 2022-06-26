@@ -1,3 +1,11 @@
+# extension-less files
+*
+!*/
+!*.*
+!makefile
+!Makefile
+!LICENSE
+
 # Prerequisites
 *.d
 
