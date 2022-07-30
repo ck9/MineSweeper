@@ -2,9 +2,9 @@
 A small MineSweeper game in C language
 
 # Demo
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/47718193/175820434-fa16c983-57a2-436b-b1f2-cf5eecee9e86.png" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/47718193/181916544-f5c803e0-d188-41ce-89b1-700594130c13.jpg" alt="Demo image">
+</div>
 
 # Compile
 ```
